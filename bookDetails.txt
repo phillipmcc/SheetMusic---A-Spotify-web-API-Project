@@ -1,0 +1,30 @@
+1,Frankenstein,1818,Mary Shelley,Science Fiction,Horror Fiction
+2,Dracula,1897,Bram Stoker,Horror Fiction,Gothic Fiction
+3,The Great Gatsby,1925,F.Scott Fitzgerald,Historical Fiction,Tragedy
+4,Fahrenheit 451,1953,Ray Bradbury,Science Fiction,Dystopian Fiction
+5,Animal Farm,1945,George Orwell,Political Fiction,Satires
+6,To Kill a Mockingbird,1960,Harper Lee,Gothic Fiction,Bildungsroman
+7,Slaughterhouse-Five,1969,Kurt Vonnegut,Science Fiction,Satires
+8,Moby-Dick,1851,Herman Melville,Adventure Fiction, Nautical Fiction
+9,Adventures of Huckleberry Finn,1884,Mark Twain,Adventure Fiction, Satires
+10,Treasure Island,1883,Robert Louis Stevenson,Adventure Fiction,Nautical Fiction
+11,The Hunger Games,2008,Suzanne Collins,Action,Dystopian Fiction
+12,Pride and Prejudice,1813,Jane Austin,Romance,Historical Fiction
+13,Twilight,2005,Stephenie Meyer,Romance,Gothic Fiction
+14,The Chronicles of Narina,1956,C.S. Lewis,Fantasy,Fiction
+15,Gone with the Wind,1936,Margaret Mitchell,Historical Fiction,Romance
+16,The Fault in Our Stars,2012,John Green,Romance,Realistic Fiction
+17,The Da Vinci Code,2003,Dan Brown,Historical Fiction,Thriller
+18,The Perks of Being a Wallflower,1999,Stephen Chbosky,Realistic Fiction,Young Adult
+19,Lord of the Files,1954,William Golding,Dystopian Fiction,Young Adult
+20,The Hitchhiker's Guide to the Galaxy,1979,Douglas Adams,Science Fiction,Comedy
+21,Mythos,2017,Stephen Fry,History,Classics
+22,Harry Potter and the Philosopher's Stone,1997,J.K Rowling,Children's,Fantasy
+23,Dune,1965,Frank Herbert,Space Opera,Science Fiction
+24,Ninteen Eighty-Four,1949,George Orwell,Dystopian Fiction,Political Fiction
+25,A Game Of Thrones,1996,George R. R. Martin,Fantasy,Epic Fantasy
+26,American Psycho,1991,Bret Ellis,Satire,Horror
+27,Drive,2005,James Sallis,Noir,Thriller
+28,The Hobbit,1937,J. R. R. Tolkien,Fantasy,Children's
+29,The Last Kingdom,2004,Bernard Cornwell,Historical Fiction,History
+30,Strange Case of Dr Jekyll and Mr Hyde,1886,Robert Louis Stevenson,Horror,Gothic
